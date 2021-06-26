@@ -1,0 +1,18 @@
+{
+  "strict": true,
+  "mocha": true,
+  "module": true,
+  "noempty": true,
+  "noarg": true,
+  "esnext": true,
+  "eqeqeq": true,
+  "browser": true,
+  "bitwise": true,
+  "curly": true,
+  "undef": true,
+  "esversion": 6,
+  "nonew": true,
+  "forin": true,
+  "debug": true,
+  "node": true
+}
